@@ -1,0 +1,1 @@
+Eğer elinizde hazır olarak xml formatında labellanmış bir veri seti varsa ve bu veri setini yolov5 de eğitmek istiyorsanız ekteki kod bloğunu kullanarak dönüşüm işlemi yapabilirsiniz. İmport edilen kütüphaneleri yüklemeniz gerekmektedir.
